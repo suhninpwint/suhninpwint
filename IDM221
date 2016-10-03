@@ -1,3 +1,113 @@
+***********************
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Portfolio</title>
+  </head>
+  <body>
+
+    <h1>About Me</h1>
+    <h2><i> "Insert my own slogan"</i></h2>
+    <img src="SuHninPwintProfile.png" alt="My profile picture." width="250" height="200" />
+  <p>
+    My name is Su Hnin Pwint and I’m from Yangon, Myanmar. I am majoring in Interactive Digital Media. I am young amateur who is passionate about technology and digital media. I have been taking courses related to design and programming since high school until now. When I don’t work on design or programming I would work on my photography skills or sew clothes for fun. Regardless of school work, I love helping the people and environment so, I would volunteer for events whenever as I am in a community service sorority. Besides, digital artwork I love working hands on such as using acrylic, water color, print-making, and charcoal when I have leisure time. I have had previous experience with web design and mobile development interning at NexLabs.co. I was to design websites from scratch and made wireframes. I also helped the front-end development building websites and learned Objective-C. I’m looking forward to become a UI and UX designer or a front-end web developer because I love design and coding at the same time I want to explore into VR and AI and want to integrate those into my projects.   <!-- Description about myself -->
+  </p>
+
+  <h2> Resume </h2>
+
+<h3> Su Hnin Pwint </h3>
+
+<ul>
+<li>
+<address><p> 3175 JFK Blvd, Philadelphia, PA </p></address>
+</li>
+</ul>
+
+<h3> Educational Background </h3>
+  <ul>
+<li> Drexel University </li>
+<li> Westphal College of Media Arts and Design </li>
+<li> Bachelor of Science Interactive Digital Media </li>
+<li> A program that integrates design and code skills side by side while students must be able to design beautiful and engaging interactive products and to be able to code and bring them to life. </li>
+</ul>
+
+<h3> Skills </h3>
+<ul>
+    <li>Adobe Photoshop</li>
+    <li>Adobe Illustrator </li>
+    <li> Adobe Aftereffects </li>
+    <li> Adobe Aftereffects </li>
+    <li> Adobe Dreamweaver </li>
+    <li> Adobe Indesign </li>
+    <li> Adobe Flash </li>
+    <li> Adobe Lightroom </li>
+    <li> Java </li>
+    <li> Objective-C </li>
+    <li> Autodesk Maya </li>
+    <li> Autocad </li>
+    <li> Sketch (Bohemnian) </li>
+    <li> Google Sketch-up </li>
+    <li> Basic Sign Langauge </li>
+    <li> Fluent in English, Burmese and Mandarin </li>
+</ul>
+
+<h3> Work Experience </h3>
+  <h4>Internship</h4>
+  <ul> 
+  <li> NEX-Digital Agency June 2016- August 2016( 3months) | Yangon, Myanmar (http://nexlabs.co) </li>
+  <li> Websites I worked on: </li>
+  <li> NEX Website (nexlabs.co) </li>
+  <li> MissKaya website </li>
+  <li> Connect website (connectbycrossbridge.com) </li>
+  <li> RockstarZ website (rockstarz.asia) </li>
+  <li>I was part of a full end-to-end website design and development process. I was assigned to  design and develop the websites from scratch for clients. I was also assigned to work on various web development projects but was interested in learning about building mobile applications. Therefore, I developed my skills in Objective-C and iOS Application Development. 
+  </li></ul>
+
+<h4>Freelance Photographer and Graphic Designer</h4>
+
+
+<ul>
+<li> Takes landscape and Potrait Photography </li>
+<li> Create posters, ads, logos and campaigns </li>
+</ul>
+
+<h3> Activities </h3>
+<h4>Participant in the PhillyCode Fest 2016</h4>
+
+<ul>
+<li> As a group we created a Drexel University Shuttle Bus/Website/Mobile Application and I was the main UI/UX Designer for the group. </li>
+</ul>
+
+<h4>Graphic Designer of Drexel University Photography Club</h4>
+
+<ul>
+<li> March 2016- Present ( 7 months) </li>
+<li> The Drexel University Photography Club (https://www.facebook.com/groups/DUPhotoClub) </li>
+</ul>
+
+<h4>Mentor</h4>
+
+<ul>
+<li> Drexel University, July 2016- Present(3months) | Education</li>
+<li> Dragons to Dragon Mentorship Program 2016-2017 </li>
+<li> Mentoring incoming first year international students and transfer undergraduate students.
+The goal of this mentor program is to match the current students with incoming first-years and transfer international students to help them get to know Drexel and Philadelphia better, give them an opportunity to build friendships, and help them build a support group while they are still at home. </li>
+</ul>
+
+<h4>Volunteer</h4>
+
+<ul>
+<li>Gamma Sigma Sigma National Service Sorority </li>
+<li> April 2016- Present ( 6 months ) | Environment </li>
+<li> Hoops for Hope ( Active Minds ) : 4 hours of service </li>
+<li> Chosen 300 ( Civic Engagement ) : 12 hours of service </li>
+<li> Love Your Park Cleanup : 4 hours of service </li>
+<li> Cancer Relay for Life : 6 hours of service </li>
+</ul>
+
+  </body>
+</html>
 <!DOCTYPE html>
 <html>
   <head>
@@ -43,3 +153,5 @@
 
 </body>
 </html>
+
+**************************
