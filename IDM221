@@ -18,3 +18,28 @@
 </ul>
 </body>
 </html>
+
+**********************************
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Portfolio</title>
+  </head>
+  <body>
+<h1> Projects </h1>
+
+<h3> Interaction Design  </h3> 
+<img src="RockStarz_Journal.png" alt="IDM-1"/>
+
+<h3> 2-D & 3-D Animation </h3>
+<img src="2.png" alt="Anim-1"/>
+
+<h3> Fine Arts & Graphic Design </h3>
+<img src="2.jpg" alt="Graph"/>
+
+<h3> Film & Photography </h3>
+<img src="elephant.jpg" alt="Film"/>
+
+</body>
+</html>
