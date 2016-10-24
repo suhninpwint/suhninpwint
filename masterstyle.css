@@ -1,0 +1,128 @@
+/* Su Hnin Pwint */
+
+*{
+	background-color: #000000; /* black background */
+}
+body{
+	font-family: 'Roboto', sans-serif;
+	color: #286385;
+	padding:10px;
+}
+img{
+
+	max-width:50%;
+	max-height:50%;
+}
+.main{
+	margin: 0 auto;
+	max-width:1400px;
+	width:100%;
+	text-align: center;
+}
+.title{
+	text-align:center;
+}
+
+header {
+	text-align:center;
+
+}
+
+h1{
+	color: #0f60f4;
+}
+
+p {
+	color: #617987;
+}
+
+h1,h2,h3{
+	text-align: center;
+}
+
+/*About me */
+
+.About {
+	font-size:30%;
+	margin: auto;
+	padding: 10px;
+}
+.title {
+	font-size:60%;
+	text-align:center;
+}
+
+img{
+	display:block;
+	margin:auto;
+}
+
+header{
+	text-align:center;
+}
+
+a:link{ color: yellow; }
+a:hover, a:focus{color: green;}
+
+ul,li{
+	padding:10px;
+}
+
+li{
+	color: #617987;
+}
+
+h2{
+	
+	color: #0f60f4;
+}
+
+
+/* Animation */
+
+h1,h3{ font-family: 'Roboto', sans-serif;
+
+
+.body1 {
+	font-size: 40%;
+	text-indent: 50px;
+}
+
+.footer { 
+font-size: 10%; } 
+
+title {
+	text-align: center;
+}
+
+/*Contact*/
+
+.Paragraph{
+	font-size: 50px;
+
+}
+
+
+/*Fine arts */
+
+.body2 {
+	font-size: 40%;
+
+}
+
+/* Interaction */
+
+.header {
+font-size: 30%;
+}
+
+body{
+
+	font-size:30%;
+}
+
+/* Photography and Film */
+
+
+
+
