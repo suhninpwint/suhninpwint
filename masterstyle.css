@@ -5,9 +5,11 @@
 }
 body{
 	font-family: 'Roboto', sans-serif;
+	
 	color: #286385;
 	padding:10px;
 }
+
 img{
 
 	max-width:50%;
@@ -25,11 +27,12 @@ img{
 
 header {
 	text-align:center;
-
 }
 
-h1{
+h1 {
+	font-family: 'Abril Fatface', cursive;
 	color: #0f60f4;
+	padding-top: 10px;
 }
 
 p {
